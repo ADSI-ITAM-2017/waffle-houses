@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idTenant: 
+  name: MyString
+  lastName: MyString
+  dateOfBirth: 2017-05-01
+  telephone: 
+  cellphone: 
+  gender: MyString
+  email: 
+  password: 
+
+two:
+  idTenant: 
+  name: MyString
+  lastName: MyString
+  dateOfBirth: 2017-05-01
+  telephone: 
+  cellphone: 
+  gender: MyString
+  email: 
+  password: 

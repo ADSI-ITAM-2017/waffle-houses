@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idProperty: 
+  numberPersons: 1
+  cost: 
+  body: MyString
+  type: 
+  idLessor: one
+  idTenant: one
+  idAddress: one
+
+two:
+  idProperty: 
+  numberPersons: 1
+  cost: 
+  body: MyString
+  type: 
+  idLessor: two
+  idTenant: two
+  idAddress: two

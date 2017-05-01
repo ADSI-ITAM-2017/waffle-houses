@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idAddress: 
+  city: MyString
+  state: MyString
+  colony: MyString
+  number: 1
+  insideNumber: 1
+  zipCode: 1
+  idProperty: one
+
+two:
+  idAddress: 
+  city: MyString
+  state: MyString
+  colony: MyString
+  number: 1
+  insideNumber: 1
+  zipCode: 1
+  idProperty: two

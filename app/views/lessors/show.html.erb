@@ -1,0 +1,36 @@
+<p id="notice"><%= notice %></p>
+
+
+
+<p>
+  <strong>Name:</strong>
+  <%= @lessor.name %>
+</p>
+
+<p>
+  <strong>Lastname:</strong>
+  <%= @lessor.lastName %>
+</p>
+
+<p>
+  <strong>Telephone:</strong>
+  <%= @lessor.telephone %>
+</p>
+
+<p>
+  <strong>Cellphone:</strong>
+  <%= @lessor.cellphone %>
+</p>
+
+<p>
+  <strong>Email:</strong>
+  <%= @lessor.email %>
+</p>
+
+<p>
+  <strong>Password:</strong>
+  <%= @lessor.password %>
+</p>
+
+<%= link_to 'Edit', edit_lessor_path(@lessor) %> |
+<%= link_to 'Back', lessors_path %>
